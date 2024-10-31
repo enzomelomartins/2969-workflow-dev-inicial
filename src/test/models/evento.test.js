@@ -1,5 +1,5 @@
 import {
-  describe, expect, it,
+  describe, expect, it, jest,
 } from '@jest/globals';
 import Evento from '../../models/eventos.js';
 

@@ -1,7 +1,7 @@
-/* eslint-disable no-sequences */
 /* eslint-disable linebreak-style */
 /* eslint-disable no-unused-expressions */
 /* eslint-disable camelcase */
+import db from '../db/dbconfig.js';
 
 class Evento {
   constructor({
